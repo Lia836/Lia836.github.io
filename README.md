@@ -29,8 +29,6 @@
        
         <ul>
           <li> En cours, M2 IPM, <a href="https://www.univ-lille.fr"> Université Lille</a></li>
-          
-
           <li>CRPE, Professeure des Ecoles, 2004</li>
           <li>Licence Lettres Modernes, 2001</li>
         </ul>
@@ -56,15 +54,16 @@
 
     </div>
 
-<table border="1">
+    <table border="1" width="30%">
   <caption>Notes</caption>
+  <thead>
+    <!--thead définit un ensemble de qui définit l'en-tête des colonnes d'un tableau-->
 <tr>
 <th colspan="2"><em>Programming module</em></th></tr>
 
 <!--
         commentaire : Je fusionne les 2 titres horizontalement!
         --> 
-
 <tr>
  <th>Cours</th>
  <th>Notes</th>
@@ -88,6 +87,7 @@
 
 <tr>
     <th colspan="2">Moyenne</th></tr>
+</thead>
 </table>
 
    </section>
@@ -105,11 +105,10 @@
     <p>Entraînement running, écouter musique</p>
   
 </section>
-
- 
-
-
-
-
 </body>
 </html>
+
+
+
+
+ 
